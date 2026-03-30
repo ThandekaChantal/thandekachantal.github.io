@@ -63,7 +63,7 @@ Object-Oriented Programming, Agile Basics, Problem Solving
 
 ---
 
-## 🚀 Projects & Practical Experience  
+## 🚀Practical Experience  
 
 ### 🌐 Website Development  
 I have developed multiple responsive websites using HTML, CSS, JavaScript and Java.  
@@ -85,7 +85,7 @@ These projects strengthened my problem solving and logical thinking skills.
 
 ---
 
-## 🧠 Reflection (My Learning Journey)  
+## 🧠 My Learning Journey  
 
 Through my studies and projects, I have developed both technical and personal skills.  
 
