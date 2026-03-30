@@ -123,4 +123,4 @@ I value honesty and integrity in my work. I ensure my projects are original and 
 
 ## 🚀 Career Focus  
 
-I am currently seeking a Work In
+I am currently seeking a Work Intergrated Learning
