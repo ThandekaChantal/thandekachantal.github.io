@@ -1,11 +1,26 @@
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 # 👩🏽‍💻 Thandeka Malande  
+
 ### ICT Student | Web Developer | Future Software Engineer  
 
 📍 Cape Town, South Africa  
 📧 malandethandeka@gmail.com  
-🔗 [GitHub](https://github.com/ThandekaChantal)  
-🔗 [LinkedIn](https://www.linkedin.com/in/thandeka-malande-0310942b8)  
 
+🔗 [GitHub](https://github.com/ThandekaChantal) • 🔗 [LinkedIn](https://www.linkedin.com/in/thandeka-malande-0310942b8)
+
+<p align="left">
+  <a href="https://github.com/ThandekaChantal">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  
+  <a href="https://www.linkedin.com/in/thandeka-malande-0310942b8">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 ---
 
 ## 🌟 About Me  
@@ -31,21 +46,36 @@ Harold Cressy High School
 
 ## 💻 Technical Skills  
 
-- **Programming:** Java, JavaScript  
-- **Web Development:** HTML, CSS, Responsive Design  
-- **Tools:** GitHub, Visual Studio Code, NetBeans  
-- **Platforms:** WordPress  
-- **Concepts:** Object-Oriented Programming, Problem Solving, Agile Basics  
+**Languages:**  
+Java, JavaScript  
+
+**Web Development:**  
+HTML, CSS, Responsive Design  
+
+**Tools:**  
+GitHub, Visual Studio Code, NetBeans  
+
+**Platforms:**  
+WordPress  
+
+**Concepts:**  
+Object-Oriented Programming, Agile Basics, Problem Solving   
 
 ---
 
-## 🚀 Projects & Experience  
+## 🚀 Projects & Practical Experience  
 
-- Developed multiple responsive websites using HTML, CSS, and JavaScript  
-- Completed paid freelance website projects for clients  
-- Built Java applications using object-oriented programming  
-- Designed websites using WordPress  
+### 🌐 Website Development  
+I have developed multiple responsive websites using HTML, CSS, JavaScript and Java.  
+These projects focused on layout design, responsiveness, and user experience.  
 
+### 💼 Freelance Work  
+I have completed paid website projects for clients using WordPress.  
+This experience helped me understand client requirements, deadlines, and real world expectations.  
+
+### ☕ Java Applications  
+I built Java programs using object-oriented programming concepts such as classes, methods, arrays, and input validation.  
+These projects strengthened my problem solving and logical thinking skills.  
 ---
 
 ## 🎥 Mock Interview Video  
@@ -86,4 +116,10 @@ I value honesty and integrity in my work. I ensure my projects are original and 
 
 - Harold Cressy High School – 021 461 3810  
 - Saratoga Spur – +27 63 643 0228  
-- Exclusive Books Table Bay – 021 007 3687  
+- Exclusive Books Table Bay – 021 007 3687
+
+---
+
+## 🚀 Career Focus  
+
+I am currently seeking a Work Integrated Learning (WIL) opportunity where I can apply my skills, gain industry experience, and grow as a developer in a professional environment.  
