@@ -1,54 +1,89 @@
-# Thandeka Malande
-
-## ICT Student | Web Development & Software Fundamentals
+# 👩🏽‍💻 Thandeka Malande  
+### ICT Student | Web Developer | Future Software Engineer  
 
 📍 Cape Town, South Africa  
 📧 malandethandeka@gmail.com  
-🔗 GitHub: https://github.com/ThandekaChantal  
-🔗 LinkedIn: https://www.linkedin.com/in/thandeka-malande-0310942b8  
+🔗 [GitHub](https://github.com/ThandekaChantal)  
+🔗 [LinkedIn](https://www.linkedin.com/in/thandeka-malande-0310942b8)  
 
 ---
 
-## 👩🏽‍💻 About Me
-I am an ICT student passionate about web development and problem solving. I enjoy building responsive websites and continuously improving my technical skills.
+## 🌟 About Me  
+
+I am a motivated ICT student currently studying at CPUT, with a strong passion for web development and problem solving. I enjoy turning ideas into functional and visually appealing digital solutions.  
+
+I have experience building responsive websites, working with WordPress, and developing Java applications. I am continuously improving my skills and preparing to enter the industry through Work Integrated Learning (WIL).  
 
 ---
 
-## 🎓 Education
-- Diploma in ICT – CPUT (2024 – Present)  
-- BSc (First Year) – UWC (2023)  
-- Matric – Harold Cressy High School  
+## 🎓 Education  
+
+**Diploma in Information and Communication Technology (ICT)**  
+Cape Peninsula University of Technology (2024 – Present)  
+
+**BSc (First Year)**  
+University of the Western Cape (2023)  
+
+**National Senior Certificate (Matric)**  
+Harold Cressy High School  
 
 ---
 
-## 💻 Technical Skills
-- Java, JavaScript  
-- HTML, CSS  
-- WordPress  
-- GitHub, VS Code   
+## 💻 Technical Skills  
+
+- **Programming:** Java, JavaScript  
+- **Web Development:** HTML, CSS, Responsive Design  
+- **Tools:** GitHub, Visual Studio Code, NetBeans  
+- **Platforms:** WordPress  
+- **Concepts:** Object-Oriented Programming, Problem Solving, Agile Basics  
 
 ---
 
-## 🎥 Mock Interview Video
-(Upload your video and paste the link here)
+## 🚀 Projects & Experience  
+
+- Developed multiple responsive websites using HTML, CSS, and JavaScript  
+- Completed paid freelance website projects for clients  
+- Built Java applications using object-oriented programming  
+- Designed websites using WordPress  
 
 ---
 
-## 🌱 Reflection
-Through my studies and projects, I have developed problem-solving skills and resilience. I have learned how to work independently and continuously improve my technical abilities.
+## 🎥 Mock Interview Video  
+
+▶️ [Click here to watch my Mock Interview Video](PASTE YOUR GOOGLE DRIVE LINK HERE)
 
 ---
 
-## 🤝 Graduate Attributes
+## 🧠 Reflection (My Learning Journey)  
 
-### Ubuntu
-I developed strong interpersonal skills through customer service roles.
+Through my studies and projects, I have developed both technical and personal skills.  
 
-### Technological Capability
-I have built websites and applications using modern technologies.
+I have learned how to approach problems step by step, especially when working with programming concepts like Java and web development. At times, I faced challenges understanding certain topics, but I improved by practicing consistently and researching solutions independently.  
 
-### Resilience
-I overcame challenges in programming by practicing and learning independently.
+Working in customer service also helped me develop communication, teamwork, and time management skills, which are essential in the workplace.  
 
-### Ethical Responsibility
-I ensure my work is original and follow professional standards.
+This journey has helped me grow into a more confident and capable individual who is ready to learn and contribute in a professional environment.  
+
+---
+
+## 🌍 Graduate Attributes  
+
+### 🤝 Ubuntu  
+I developed strong interpersonal and communication skills through my work experience, where I interacted with diverse people and learned the importance of respect and teamwork.  
+
+### 💡 Technological Capability & Foresight  
+I have used technology to build websites and applications, showing my ability to apply knowledge to real-world solutions.  
+
+### 🔧 Resilience & Problem-Solving  
+I have overcome challenges in programming by practicing consistently, seeking help when needed, and staying committed to improving my skills.  
+
+### ⚖️ Ethical Capability & Respect  
+I value honesty and integrity in my work. I ensure my projects are original and follow academic and professional standards.  
+
+---
+
+## 📌 References  
+
+- Harold Cressy High School – 021 461 3810  
+- Saratoga Spur – +27 63 643 0228  
+- Exclusive Books Table Bay – 021 007 3687  
