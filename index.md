@@ -50,7 +50,7 @@ Harold Cressy High School
 
 ## 🎥 Mock Interview Video  
 
-▶️ [Click here to watch my Mock Interview Video](PASTE YOUR GOOGLE DRIVE LINK HERE)
+▶️ [Click here to watch my Mock Interview Video](https://drive.google.com/file/d/1lLBQJQR2OWiGptvmFucIHEovrSbxfVn7/view?usp=drive_link)
 
 ---
 
