@@ -10,7 +10,6 @@
 📍 Cape Town, South Africa  
 📧 malandethandeka@gmail.com  
 
-🔗 [GitHub](https://github.com/ThandekaChantal) • 🔗 [LinkedIn](https://www.linkedin.com/in/thandeka-malande-0310942b8)
 
 <p align="left">
   <a href="https://github.com/ThandekaChantal">
@@ -73,9 +72,10 @@ These projects focused on layout design, responsiveness, and user experience.
 I have completed paid website projects for clients using WordPress.  
 This experience helped me understand client requirements, deadlines, and real world expectations.  
 
-### ☕ Java Applications  
+###Java Applications  
 I built Java programs using object-oriented programming concepts such as classes, methods, arrays, and input validation.  
 These projects strengthened my problem solving and logical thinking skills.  
+
 ---
 
 ## 🎥 Mock Interview Video  
