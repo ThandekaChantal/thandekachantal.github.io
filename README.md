@@ -9,7 +9,7 @@
 ### ICT Student | Web Developer | Future Software Engineer  
 
 📍 Cape Town, South Africa  
-📧 malandethandeka@gmail.com  
+📧 222857005@mycput.ac.za  
 
 
 <p align="left">
