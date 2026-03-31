@@ -79,7 +79,29 @@ I built Java programs using object-oriented programming concepts such as classes
 These projects strengthened my problem-solving and logical thinking skills.  
 
 ---
+# My Learning Journey 
 
+Through my studies and projects, I have developed both technical and personal skills.  
+
+I have learned how to approach problems step by step, especially when working with programming concepts like Java and web development. At times, I faced challenges understanding certain topics, but I improved by practicing consistently and researching solutions independently.  
+
+Working in customer service also helped me develop communication, teamwork, and time management skills, which are essential in the workplace.  
+
+This journey has helped me grow into a more confident and capable individual who is ready to learn and contribute in a professional environment.  
+
+---
+
+## 📌 References  
+
+- Harold Cressy High School – 021 461 3810  
+- Saratoga Spur – +27 63 643 0228  
+- Exclusive Books Table Bay – 021 007 3687  
+
+---
+
+## 🚀 Career Focus  
+
+I am currently seeking a Work Integrated Learning (WIL) opportunity where I can apply my skills, gain industry experience, and grow as a developer in a professional environment. 
 ## 🎥 Mock Interview Video  
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
@@ -97,43 +119,3 @@ These projects strengthened my problem-solving and logical thinking skills.
 📥 [Download My CV](RESUME-TCM.pdf)
 
 ---
-
-## 🧠 Reflection (My Learning Journey)  
-
-Through my studies and projects, I have developed both technical and personal skills.  
-
-I have learned how to approach problems step by step, especially when working with programming concepts like Java and web development. At times, I faced challenges understanding certain topics, but I improved by practicing consistently and researching solutions independently.  
-
-Working in customer service also helped me develop communication, teamwork, and time management skills, which are essential in the workplace.  
-
-This journey has helped me grow into a more confident and capable individual who is ready to learn and contribute in a professional environment.  
-
----
-
-## 🌍 Graduate Attributes  
-
-### 🤝 Ubuntu  
-I developed strong interpersonal and communication skills through my work experience, where I interacted with diverse people and learned the importance of respect and teamwork.  
-
-### 💡 Technological Capability & Foresight  
-I have used technology to build websites and applications, showing my ability to apply knowledge to real-world solutions.  
-
-### 🔧 Resilience & Problem-Solving  
-I have overcome challenges in programming by practicing consistently, seeking help when needed, and staying committed to improving my skills.  
-
-### ⚖️ Ethical Capability & Respect  
-I value honesty and integrity in my work. I ensure my projects are original and follow academic and professional standards.  
-
----
-
-## 📌 References  
-
-- Harold Cressy High School – 021 461 3810  
-- Saratoga Spur – +27 63 643 0228  
-- Exclusive Books Table Bay – 021 007 3687  
-
----
-
-## 🚀 Career Focus  
-
-I am currently seeking a Work Integrated Learning (WIL) opportunity where I can apply my skills, gain industry experience, and grow as a developer in a professional environment.    
