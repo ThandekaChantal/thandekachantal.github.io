@@ -45,24 +45,46 @@ Harold Cressy High School
 
 ---
 
-## 💻 Technical Skills  
+## 🛠️ TECHNICAL SKILLS  
 
-**Languages:**  
-Java, JavaScript  
+### Programming Languages  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="25"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="25"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="25"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="25"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="25"/>
+</p>
 
-**Web Development:**  
-HTML, CSS, Responsive Design  
-
-**Tools:**  
-GitHub, Visual Studio Code, NetBeans  
-
-**Platforms:**  
-WordPress  
-
-**Concepts:**  
-Object-Oriented Programming, Agile Basics, Problem Solving  
+HTML | CSS | Java | JavaScript | Python | PHP | SQL (MySQL)
 
 ---
+
+### IDEs & Tools  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="25"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="25"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" width="25"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="25"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="25"/>
+</p>
+
+IntelliJ IDEA | Figma | NetBeans | VS Code | PyCharm | MySQL Workbench | Xampp | Canva  
+
+---
+
+### Frameworks  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="25"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="25"/>
+</p>
+
+Laravel | React Native  
+
+---
+
 
 ## 🚀 Projects & Practical Experience  
 
@@ -73,6 +95,13 @@ These projects focused on layout design, responsiveness, and user experience.
 ### 💼 Freelance Work  
 I have completed paid website projects for clients using WordPress.  
 This experience helped me understand client requirements, deadlines, and real-world expectations.  
+### 🌐 Client Websites (Live Projects)
+
+- Personal Portfolio for client:  
+  https://www.edinahchagwederastudio.com/
+
+- Fostering Website (Canada):  
+  https://kumbafostering.com/
 
 ### ☕ Java Applications  
 I built Java programs using object-oriented programming concepts such as classes, methods, arrays, and input validation.  
@@ -118,4 +147,3 @@ I am currently seeking a Work Integrated Learning (WIL) opportunity where I can 
 
 📥 [Download My CV](RESUME-TCM.pdf)
 
----
