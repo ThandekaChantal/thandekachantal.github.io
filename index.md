@@ -79,8 +79,13 @@ These projects strengthened my problem solving and logical thinking skills.
 ---
 
 ## 🎥 Mock Interview Video  
-
-▶️ [Click here to watch my Mock Interview Video](https://drive.google.com/file/d/1lLBQJQR2OWiGptvmFucIHEovrSbxfVn7/view?usp=drive_link)
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe
+    src="https://drive.google.com/file/d/1lLBQJQR2OWiGptvmFucIHEovrSbxfVn7/preview"
+    style="position: absolute; top:0; left: 0; width: 100%; height: 100%;"
+    allow="autoplay"
+  ></iframe>
+</div>
 
 ---
 
