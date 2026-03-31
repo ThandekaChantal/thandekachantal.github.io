@@ -1,15 +1,9 @@
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
 # 👩🏽‍💻 Thandeka Malande  
 
 ### ICT Student | Web Developer | Future Software Engineer  
 
 📍 Cape Town, South Africa  
 📧 malandethandeka@gmail.com  
-
 
 <p align="left">
   <a href="https://github.com/ThandekaChantal">
@@ -20,6 +14,14 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
+
+---
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 ---
 
 ## 🌟 About Me  
@@ -58,7 +60,7 @@ GitHub, Visual Studio Code, NetBeans
 WordPress  
 
 **Concepts:**  
-Object-Oriented Programming, Agile Basics, Problem Solving   
+Object-Oriented Programming, Agile Basics, Problem Solving  
 
 ---
 
@@ -70,15 +72,16 @@ These projects focused on layout design, responsiveness, and user experience.
 
 ### 💼 Freelance Work  
 I have completed paid website projects for clients using WordPress.  
-This experience helped me understand client requirements, deadlines, and real world expectations.  
+This experience helped me understand client requirements, deadlines, and real-world expectations.  
 
-### ☕️ Java Applications  
+### ☕ Java Applications  
 I built Java programs using object-oriented programming concepts such as classes, methods, arrays, and input validation.  
-These projects strengthened my problem solving and logical thinking skills.  
+These projects strengthened my problem-solving and logical thinking skills.  
 
 ---
 
 ## 🎥 Mock Interview Video  
+
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe
     src="https://drive.google.com/file/d/1lLBQJQR2OWiGptvmFucIHEovrSbxfVn7/preview"
@@ -86,6 +89,12 @@ These projects strengthened my problem solving and logical thinking skills.
     allow="autoplay"
   ></iframe>
 </div>
+
+---
+
+## 📄 Curriculum Vitae  
+
+📥 [Download My CV](RESUME-TCM.pdf)
 
 ---
 
@@ -121,10 +130,10 @@ I value honesty and integrity in my work. I ensure my projects are original and 
 
 - Harold Cressy High School – 021 461 3810  
 - Saratoga Spur – +27 63 643 0228  
-- Exclusive Books Table Bay – 021 007 3687
+- Exclusive Books Table Bay – 021 007 3687  
 
 ---
 
 ## 🚀 Career Focus  
 
-I am currently seeking a Work Integrated Learning (WIL) opportunity where I can apply my skills, gain industry experience, and grow as a developer in a professional environment.  
+I am currently seeking a Work Integrated Learning (WIL) opportunity where I can apply my skills, gain industry experience, and grow as a developer in a professional environment.    
