@@ -1,19 +1,13 @@
-# 👩🏽‍💻 Thandeka Malande  
+# 👩🏽‍💻 Thandeka Malande
 
-### ICT Student | Web Developer | Future Software Engineer  
+### ICT Student | Web Developer | Future Software Engineer
 
 📍 Cape Town, South Africa  
-📧 222857005@mycput.ac.za  
+📧 malandethandeka@gmail.com  
 
-<p align="left">
-  <a href="https://github.com/ThandekaChantal">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  
-  <a href="https://www.linkedin.com/in/thandeka-malande-0310942b8">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+[💼 LinkedIn](https://www.linkedin.com/in/thandeka-malande-0310942b8) | [💻 GitHub](https://github.com/ThandekaChantal)
+
+📄 [Download CV](RESUME-TCM.pdf)
 
 ---
 
@@ -135,8 +129,51 @@ I am currently seeking a Work Integrated Learning (WIL) opportunity where I can 
 </div>
 
 ---
+# Reflection on Markdown 
 
-## 📄 Curriculum Vitae  
+## Situation
+I needed to create a professional digital portfolio.
 
-📥 [Download My CV](RESUME-TCM.pdf)
+## Task
+Build a CV and portfolio using Markdown.
+
+## Action
+Used headings, links, sections, badges and formatting.
+
+## Result
+Created a polished online portfolio.
+
+---
+
+# Reflection on Mock Interview 
+
+## Situation
+Needed to present myself professionally.
+
+## Task
+Record and embed interview video.
+
+## Action
+Prepared answers and added video to GitHub Pages.
+
+## Result
+Improved confidence and communication.
+
+---
+
+# Reflection on GitHub Pages 
+
+## Situation
+Needed to publish portfolio online.
+
+## Task
+Deploy repository to public site.
+
+## Action
+Configured Pages and tested links.
+
+## Result
+Built a live professional portfolio.
+
+
 
