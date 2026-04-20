@@ -131,49 +131,30 @@ I am currently seeking a Work Integrated Learning (WIL) opportunity where I can 
 ---
 # Reflection on Markdown 
 
-## Situation
-I needed to create a professional digital portfolio.
+I was tasked with coding my CV using Markdown language to create a professional digital portfolio. At first, I found it challenging because I had limited experience using Markdown and needed to understand how formatting works. My goal was to learn the syntax and present my CV in a clear, structured, and visually appealing way.
 
-## Task
-Build a CV and portfolio using Markdown.
+To complete the task, I researched Markdown formatting, watched tutorials, and practiced using headings, bullet points, links, badges, and layout features. I also tested different styles to improve the appearance of my portfolio and make it easy to navigate.
 
-## Action
-Used headings, links, sections, badges and formatting.
+As a result, I successfully created a professional online CV that highlights my education, skills, and experience. This task improved my technical confidence and showed me that I can learn new tools independently and apply them effectively.
 
-## Result
-Created a polished online portfolio.
 
 ---
 
 # Reflection on Mock Interview 
 
-## Situation
-Needed to present myself professionally.
+I was required to complete a mock interview video where I had to answer interview questions in a professional manner. Initially, I felt nervous because speaking on camera is different from speaking in person, and I wanted to make a good impression. My goal was to communicate clearly, remain confident, and present myself professionally.
 
-## Task
-Record and embed interview video.
+To prepare, I practiced answering possible interview questions, improved my posture and eye contact, and ensured the environment was quiet with minimal distractions. I repeated sections when necessary and focused on speaking clearly and confidently throughout the recording.
 
-## Action
-Prepared answers and added video to GitHub Pages.
-
-## Result
-Improved confidence and communication.
+As a result, I successfully completed the mock interview video and gained valuable insight into what real interviews may feel like. The experience helped me build confidence, improve communication skills, and prepare for future career opportunities.
 
 ---
 
 # Reflection on GitHub Pages 
+I was tasked with publishing my digital portfolio using GitHub Pages. At first, the process seemed confusing because I had never used GitHub Pages before and needed to understand how repositories, Markdown files, and publishing settings work together. My goal was to successfully create and publish a live professional portfolio website.
 
-## Situation
-Needed to publish portfolio online.
+To achieve this, I followed the provided instructions carefully, explored GitHub settings, uploaded my files, and tested my portfolio multiple times. I also learned how to embed videos, link documents, and organize content so that the website would function correctly and look professional.
 
-## Task
-Deploy repository to public site.
-
-## Action
-Configured Pages and tested links.
-
-## Result
-Built a live professional portfolio.
-
+As a result, I successfully published my portfolio online through GitHub Pages. This task improved my understanding of version control, website deployment, and digital presentation skills, which are important in the IT industry.
 
 
