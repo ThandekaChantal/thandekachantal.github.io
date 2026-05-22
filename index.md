@@ -87,6 +87,9 @@ This experience helped me understand client requirements, deadlines, and real-wo
 - Personal Portfolio for client:  
   https://www.edinahchagwederastudio.com/
 
+- Haircare online storefront for client:
+  https://www.maehair.co.za/
+
 - Fostering Website (Canada):  
   https://kumbafostering.com/
 
