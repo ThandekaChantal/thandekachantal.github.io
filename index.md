@@ -3,7 +3,7 @@
 ### ICT Student | Web Developer | Future Software Engineer
 
 📍 Cape Town, South Africa  
-📧 malandethandeka@gmail.com  
+📧 222857005@mycput.ac.za  
 
 [💼 LinkedIn](https://www.linkedin.com/in/thandeka-malande-0310942b8) | [💻 GitHub](https://github.com/ThandekaChantal)
 
