@@ -119,21 +119,24 @@ I value honesty and integrity in my work. I ensure my projects are original and 
 - Exclusive Books Table Bay – 021 007 3687
 
 ---
-Reflection on Markdown
+### Reflection on Markdown
+
 I was tasked with coding my CV using Markdown language to create a professional digital portfolio. At first, I found it challenging because I had limited experience using Markdown and needed to understand how formatting works. My goal was to learn the syntax and present my CV in a clear, structured, and visually appealing way.
 
 To complete the task, I researched Markdown formatting, watched tutorials, and practiced using headings, bullet points, links, badges, and layout features. I also tested different styles to improve the appearance of my portfolio and make it easy to navigate.
 
 As a result, I successfully created a professional online CV that highlights my education, skills, and experience. This task improved my technical confidence and showed me that I can learn new tools independently and apply them effectively.
 
-Reflection on Mock Interview
+### Reflection on Mock Interview
+
 I was required to complete a mock interview video where I had to answer interview questions in a professional manner. Initially, I felt nervous because speaking on camera is different from speaking in person, and I wanted to make a good impression. My goal was to communicate clearly, remain confident, and present myself professionally.
 
 To prepare, I practiced answering possible interview questions, improved my posture and eye contact, and ensured the environment was quiet with minimal distractions. I repeated sections when necessary and focused on speaking clearly and confidently throughout the recording.
 
 As a result, I successfully completed the mock interview video and gained valuable insight into what real interviews may feel like. The experience helped me build confidence, improve communication skills, and prepare for future career opportunities.
 
-Reflection on GitHub Pages
+### Reflection on GitHub Pages
+
 I was tasked with publishing my digital portfolio using GitHub Pages. At first, the process seemed confusing because I had never used GitHub Pages before and needed to understand how repositories, Markdown files, and publishing settings work together. My goal was to successfully create and publish a live professional portfolio website.
 
 To achieve this, I followed the provided instructions carefully, explored GitHub settings, uploaded my files, and tested my portfolio multiple times. I also learned how to embed videos, link documents, and organize content so that the website would function correctly and look professional.
