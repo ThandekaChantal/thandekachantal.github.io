@@ -1,6 +1,6 @@
 # 👩🏽‍💻 Thandeka Malande
 
-### ICT Student | Web Developer | Future Software Engineer
+### ICT Student | Web Developer | Future Software Developer
 
 📍 Cape Town, South Africa  
 📧 222857005@mycput.ac.za  
@@ -84,13 +84,13 @@ I have completed paid website projects for clients using WordPress.
 This experience helped me understand client requirements, deadlines, and real-world expectations.  
 ### 🌐 Client Websites (Live Projects)
 
-- Personal Portfolio for client:  
+- Personal Portfolio for client(2025):  
   https://www.edinahchagwederastudio.com/
 
-- Haircare online storefront for client:
+- Haircare online storefront for client(2026):
   https://www.maehair.co.za/
 
-- Fostering Website (Canada):  
+- Fostering Website (Canada)(2024):  
   https://kumbafostering.com/
 
 ### ☕ Java Applications  
