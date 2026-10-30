@@ -342,18 +342,17 @@ This portfolio showcases my progress and practical experience during my Work Int
 >
 > GoClean is an affordable laundry pickup and delivery service for university students and busy township residents. After lecturer feedback we pivoted from a public clinic booking system to a service with a clear income model and no dependence on large institutions.
 
- ### Project Documentation
+ ### Project Documentation### 📂 Project Documentation
 
+For better viewing of screenshots, project evidence and supporting documentation, please visit my [**Google Drive Documentation Folder**](https://drive.google.com/drive/folders/1lRYqLL-zW9gr8fFGPc7kYIhSTNJ6K-1z?usp=sharing).
 
 | **Document / Evidence** | **Preview / Screenshot** | **Description & Link** |
-| :--- | :---: | :--- |
-| **Agile Team Charter** | *PDF Document* | [View Charter PDF](./PROJECT-DOCUMENTS/Agile-Team-Charter-GoClean.pdf) |
-| **User Stories and Tasks** | ![User Stories](./images/user-stories.png) | User needs and task breakdowns |
-| **Product Backlog** | ![Product Backlog](./images/product-backlog.png) | [View Live Trello Board](https://trello.com/b/Ia2c4Am0/goclean-app) |
-| **Sprint Backlog** | ![Sprint Backlog](sprint-backlog..mov) | [View Live Trello Board](https://trello.com/b/Ia2c4Am0/goclean-app) |
-| **Agile Logbooks** | ![Agile Logbook](./images/agile-logbook.png) | Daily activities and progress notes |
-
-
+|:---|:---:|:---|
+| **Agile Team Charter** | [📄 View Charter](https://drive.google.com/drive/folders/1lRYqLL-zW9gr8fFGPc7kYIhSTNJ6K-1z?usp=sharing) | Team roles, responsibilities and agreements |
+| **User Stories and Tasks** | [📋 View User Stories](https://trello.com/b/Ia2c4Am0/goclean-app) | User requirements, tasks and project planning |
+| **Product Backlog** | [📊 View Product Backlog](https://drive.google.com/drive/folders/1lRYqLL-zW9gr8fFGPc7kYIhSTNJ6K-1z?usp=sharing) | Prioritised project features and requirements |
+| **Sprint Backlog** | [🎥 View Sprint Backlog](https://drive.google.com/drive/folders/1lRYqLL-zW9gr8fFGPc7kYIhSTNJ6K-1z?usp=sharing) | Sprint activities, tasks and progress |
+| **Agile Logbooks** | [📘 View Agile Logbooks](https://drive.google.com/drive/folders/1lRYqLL-zW9gr8fFGPc7kYIhSTNJ6K-1z?usp=sharing) | Daily activities, contributions and project progress |
 
 <div align="center">
 
