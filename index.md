@@ -71,7 +71,7 @@
 >
 > I have experience building responsive websites, working with WordPress, and developing Java applications. I am continuously improving my skills and preparing to enter the industry through **Work Integrated Learning (WIL)**.
 
-<-Fun fact ~ I love thrillers and anything mind bending. -->
+
 
 <a name="contact-details"></a>
 
@@ -87,9 +87,7 @@
 
 > [![Download CV](https://img.shields.io/badge/📄_Download_CV-RESUME--TCM.pdf-246BCE?style=flat-square)](RESUME-TCM.pdf)
 
-<
 > [![Phone](https://img.shields.io/badge/Phone-000%20000%200000-2E7D32?style=flat-square&logo=whatsapp&logoColor=white)](tel:0644892003)
--->
 
 <a name="education"></a>
 
@@ -357,7 +355,6 @@ This portfolio showcases my progress and practical experience during my Work Int
 
  ### Project Documentation
 
-### Project Documentation
 
 | **Document / Evidence** | **Preview / Screenshot** | **Description & Link** |
 | :--- | :---: | :--- |
