@@ -196,17 +196,6 @@
 > - I built Java programs using object-oriented programming concepts such as classes, methods, arrays, and input validation.
 > - These projects strengthened my problem-solving and logical thinking skills.
 
-<!-- ✏️ EDIT ME: add a new project by copying a card above and changing the text.
-     Badge ideas:  ongoing → FFA500   completed → 2E7D32   team project → 8A2BE2
-> ### 🧩 Project name
-> ![Status](https://img.shields.io/badge/status-ongoing-FFA500?style=flat-square)
->
-> - What the project does
-> - What you personally built
->
-> **Technologies:** ...
--->
-
 <a name="technical-skills"></a>
 
 ## 🛠️ Technical Skills
