@@ -349,11 +349,146 @@ For better viewing of screenshots, project evidence and supporting documentation
 | **Document / Evidence** | **Link** | **Description** |
 |:---|:---:|:---|
 | **GoClean Website** | [🌐 Visit Website](https://go-clean-one.vercel.app/) | The live GoClean web application |
-| **Agile Team Charter** | [📄 View Charter](https://drive.google.com/drive/folders/1lRYqLL-zW9gr8fFGPc7kYIhSTNJ6K-1z?usp=sharing) | Team roles, responsibilities and agreements |
+| **Agile Team Charter** | [📄 View Charter](Agile_Team_Charter_GoClean%20%281%29.pdf) | Team roles, responsibilities and agreements |
 | **User Stories and Tasks** | [📋 View User Stories](https://trello.com/b/Ia2c4Am0/goclean-app) | User requirements, tasks and project planning |
-| **Product Backlog** | [📊 View Product Backlog](https://drive.google.com/drive/folders/1lRYqLL-zW9gr8fFGPc7kYIhSTNJ6K-1z?usp=sharing) | Prioritised project features and requirements |
-| **Sprint Backlog** | [🎥 View Sprint Backlog](https://drive.google.com/drive/folders/1lRYqLL-zW9gr8fFGPc7kYIhSTNJ6K-1z?usp=sharing) | Sprint activities, tasks and progress |
+| **Product Backlog** | [📊 View Product Backlog](product-backlog.png) | Prioritised project features and requirements |
+| **Sprint Backlog** | [🏃 View Sprint Backlog](#sprint-backlog) | Sprint activities, tasks and progress |
 | **Agile Logbooks** | [📘 View Agile Logbooks](https://drive.google.com/drive/folders/1lRYqLL-zW9gr8fFGPc7kYIhSTNJ6K-1z?usp=sharing) | Daily activities, contributions and project progress |
+
+### ⭐ Evidence & STAR Reflections
+
+<!-- ✏️ EDIT ME: the STAR lines below are written from what our team did together and my QA role. Add anything personal you did. -->
+
+<a name="evidence-website"></a>
+
+#### 🌐 GoClean Website
+
+[🌐 Open the live site](https://go-clean-one.vercel.app/)
+
+> **⭐ STAR in 4 lines**
+>
+> 🎬 **Situation** · GoClean only ran on our laptops, so nobody outside the team could try it.
+>
+> 🎯 **Task** · Get it live on a public link so anyone could use it.
+>
+> 🛠️ **Action** · The team deployed the app online on Vercel. As Tester (QA), I tried the live version and checked that it worked.
+>
+> 🏆 **Result** · GoClean is now live at one link, and testing something real beats testing on a laptop.
+
+<a name="evidence-charter"></a>
+
+#### 🤝 Agile Team Charter
+
+[📄 Open the Agile Team Charter (PDF)](Agile_Team_Charter_GoClean%20%281%29.pdf)
+
+> **⭐ STAR in 4 lines**
+>
+> 🎬 **Situation** · After our lecturer's feedback we dropped the clinic booking idea for GoClean, and our team of five needed ground rules.
+>
+> 🎯 **Task** · Agree on our purpose, roles and values, with my role as Tester (QA) clearly written down.
+>
+> 🛠️ **Action** · We wrote the charter together: mission, success definition, roles, core values, and a communication plan.
+>
+> 🏆 **Result** · Everyone knew their job from day one. Rules agreed early saved us from confusion later.
+
+<a name="evidence-user-stories"></a>
+
+#### 📋 User Stories and Tasks
+
+[📋 Open our Trello board](https://trello.com/b/Ia2c4Am0/goclean-app)
+
+> **⭐ STAR in 4 lines**
+>
+> 🎬 **Situation** · Our lecturer said our tasks sounded like developer chores, not real user needs.
+>
+> 🎯 **Task** · Rewrite tasks as user stories: "As a user, I want to ... so that ...".
+>
+> 🛠️ **Action** · We rewrote the backlog from the customer's point of view and updated the Trello board.
+>
+> 🏆 **Result** · We could finally see what customers need, which also made it clearer what I had to test.
+
+<a name="evidence-product-backlog"></a>
+
+#### 📊 Product Backlog
+
+[![GoClean product backlog](product-backlog.png)](product-backlog.png)
+
+<sub>👆 Click the screenshot to open it full size</sub>
+
+> **⭐ STAR in 4 lines**
+>
+> 🎬 **Situation** · GoClean had 24 tasks, from feasibility and marketing to testing and the final presentation, with no order.
+>
+> 🎯 **Task** · Sort them on Trello so we knew what to build first.
+>
+> 🛠️ **Action** · We went through every card as a team and ranked them by importance. Testing & Quality Assurance got its own card.
+>
+> 🏆 **Result** · One clear list of work, so no time wasted on the wrong things.
+
+<a name="sprint-backlog"></a>
+
+#### 🏃 Sprint Backlog
+
+<div align="center">
+
+  <div style="display:inline-block; width:180px; margin:6px; vertical-align:top; text-align:center;">
+    <a href="sprint-1-board.jpg"><img src="sprint-1-board.jpg" alt="Sprint 1 board" width="170"></a><br>
+    <strong>Sprint 1 · Getting started</strong><br>
+    <sub>Welcome, Home, Registration, Login</sub>
+  </div>
+  <div style="display:inline-block; width:180px; margin:6px; vertical-align:top; text-align:center;">
+    <a href="sprint-2-board.jpg"><img src="sprint-2-board.jpg" alt="Sprint 2 board" width="170"></a><br>
+    <strong>Sprint 2 · Ordering</strong><br>
+    <sub>Order page, Confirmation, Tracking, History</sub>
+  </div>
+  <div style="display:inline-block; width:180px; margin:6px; vertical-align:top; text-align:center;">
+    <a href="sprint-3-board.jpg"><img src="sprint-3-board.jpg" alt="Sprint 3 board" width="170"></a><br>
+    <strong>Sprint 3 · Making it smart</strong><br>
+    <sub>Profile, Notifications, Driver assignment, Payments</sub>
+  </div>
+  <div style="display:inline-block; width:180px; margin:6px; vertical-align:top; text-align:center;">
+    <a href="sprint-4-board.jpg"><img src="sprint-4-board.jpg" alt="Sprint 4 board" width="170"></a><br>
+    <strong>Sprint 4 · Behind the scenes</strong><br>
+    <sub>Admin dashboard, Database, Branding, Pricing</sub>
+  </div>
+  <div style="display:inline-block; width:180px; margin:6px; vertical-align:top; text-align:center;">
+    <a href="sprint-5-board.jpg"><img src="sprint-5-board.jpg" alt="Sprint 5 board" width="170"></a><br>
+    <strong>Sprint 5 · Launch time</strong><br>
+    <sub>WhatsApp support, Social media, MVP pilot, Deployment</sub>
+  </div>
+
+</div>
+
+<div align="center"><sub>👆 Click any board to open it full size</sub></div>
+
+[▶️ Prefer video? Watch my sprint backlog walkthrough](sprint-backlog..mov)
+
+> **⭐ STAR in 4 lines**
+>
+> 🎬 **Situation** · With the backlog sorted, we had to decide what gets built and when.
+>
+> 🎯 **Task** · Split the work into sprints, with every card assigned to people on the team.
+>
+> 🛠️ **Action** · We built five sprints of four tasks each, from login screens all the way to deployment and launch.
+>
+> 🏆 **Result** · A clear plan from start to finish, and as Tester (QA) I always knew what to check next.
+
+<a name="evidence-logbooks"></a>
+
+#### 📘 Agile Logbooks
+
+[📘 Open my logbooks on Google Drive](https://drive.google.com/drive/folders/1lRYqLL-zW9gr8fFGPc7kYIhSTNJ6K-1z?usp=sharing)
+
+> **⭐ STAR in 4 lines**
+>
+> 🎬 **Situation** · Between 14 July and 7 August we worked to tight deadlines while juggling other modules.
+>
+> 🎯 **Task** · Record my progress, goals and problems in a weekly Agile logbook.
+>
+> 🛠️ **Action** · I filled in the logbook each week with what I finished and what blocked me.
+>
+> 🏆 **Result** · I could see my own progress and where my time went, which made me better at planning my time.
+
 
 <div align="center">
 
