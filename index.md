@@ -365,7 +365,7 @@ For better viewing of screenshots, project evidence and supporting documentation
 
 [🌐 Open the live site](https://go-clean-one.vercel.app/)
 
-> **⭐ STAR in 4 lines**
+> **⭐ REFLECTION**
 >
 > 🎬 **Situation** · GoClean only ran on our laptops, so nobody outside the team could try it.
 >
@@ -381,7 +381,7 @@ For better viewing of screenshots, project evidence and supporting documentation
 
 [📄 Open the Agile Team Charter (PDF)](Agile_Team_Charter_GoClean%20%281%29.pdf)
 
-> **⭐ STAR in 4 lines**
+> **⭐ REFLECTION**
 >
 > 🎬 **Situation** · After our lecturer's feedback we dropped the clinic booking idea for GoClean, and our team of five needed ground rules.
 >
@@ -397,7 +397,7 @@ For better viewing of screenshots, project evidence and supporting documentation
 
 [📋 Open our Trello board](https://trello.com/b/Ia2c4Am0/goclean-app)
 
-> **⭐ STAR in 4 lines**
+> **⭐ REFLECTION**
 >
 > 🎬 **Situation** · Our lecturer said our tasks sounded like developer chores, not real user needs.
 >
@@ -415,7 +415,7 @@ For better viewing of screenshots, project evidence and supporting documentation
 
 <sub>👆 Click the screenshot to open it full size</sub>
 
-> **⭐ STAR in 4 lines**
+> **⭐ REFLECTION**
 >
 > 🎬 **Situation** · GoClean had 24 tasks, from feasibility and marketing to testing and the final presentation, with no order.
 >
@@ -463,7 +463,7 @@ For better viewing of screenshots, project evidence and supporting documentation
 
 [▶️ Prefer video? Watch my sprint backlog walkthrough](sprint-backlog..mov)
 
-> **⭐ STAR in 4 lines**
+> **⭐ REFLECTION**
 >
 > 🎬 **Situation** · With the backlog sorted, we had to decide what gets built and when.
 >
@@ -479,7 +479,7 @@ For better viewing of screenshots, project evidence and supporting documentation
 
 [📘 Open my logbooks on Google Drive](https://drive.google.com/drive/folders/1lRYqLL-zW9gr8fFGPc7kYIhSTNJ6K-1z?usp=sharing)
 
-> **⭐ STAR in 4 lines**
+> **⭐ REFLECTION**
 >
 > 🎬 **Situation** · Between 14 July and 7 August we worked to tight deadlines while juggling other modules.
 >
@@ -492,6 +492,6 @@ For better viewing of screenshots, project evidence and supporting documentation
 
 <div align="center">
 
-<sub>© 2026 Thandeka Malande · Built with Markdown and GitHub Pages</sub>
+<sub>© 2026 Thandeka Malande </sub>
 
 </div>
