@@ -1,4 +1,3 @@
-
 ![Name](https://img.shields.io/badge/Thandeka_Malande-246BCE?style=for-the-badge&labelColor=246BCE)
 
 ### ICT Student | Web Developer | Future Software Developer
@@ -87,7 +86,7 @@
 
 > [![Download CV](https://img.shields.io/badge/📄_Download_CV-RESUME--TCM.pdf-246BCE?style=flat-square)](RESUME-TCM.pdf)
 
-> [![Phone](https://img.shields.io/badge/Phone-000%20000%200000-2E7D32?style=flat-square&logo=whatsapp&logoColor=white)](tel:0644892003)
+> [![Phone](https://img.shields.io/badge/Phone-064%20489%202003-2E7D32?style=flat-square&logo=whatsapp&logoColor=white)](tel:0644892003)
 
 <a name="education"></a>
 
@@ -123,6 +122,7 @@
 > | Personal portfolio for a client | 2025 | [edinahchagwederastudio.com](https://www.edinahchagwederastudio.com/) |
 > | Haircare online storefront for a client | 2026 | [maehair.co.za](https://www.maehair.co.za/) |
 > | Fostering website (Canada) | 2024 | [kumbafostering.com](https://kumbafostering.com/) |
+> | GoClean laundry pickup & delivery platform (team project) | 2026 | [go-clean-one.vercel.app](https://go-clean-one.vercel.app/) |
 
 <!-- ✏️ EDIT ME: add another client site as a new row in the table above:
 > | Project name | Year | [link](https://...) |
@@ -141,7 +141,7 @@
 >
 > **Technologies:** Java, Spring Boot, MySQL, IntelliJ IDEA, Figma
 >
-> [Jump to the GoClean documents](#goclean)
+> 🌐 [Visit the live GoClean website](https://go-clean-one.vercel.app/) · 📂 [Jump to the GoClean documents](#goclean)
 
 <a name="project-car-rental"></a>
 
@@ -315,7 +315,7 @@ People who can provide further information about my academic progress and profes
 | **Situation** | I worked in a team of five on GoClean, a laundry pickup and delivery service. After our lecturer's feedback we had to change our original idea, a clinic booking system, to something more realistic. |
 | **Task** | My role was Tester (QA). I had to check that the system met our quality criteria, and the team had to work together using Agile practices such as an Agile Team Charter with clear roles and values. |
 | **Action** | We agreed on roles and responsibilities in our charter, communicated openly about progress and blockers, and adapted our plan based on feedback. I tested features, reported errors and helped prepare our presentation. |
-| **Result** | We pivoted to a project that was easier to build and validate, and the team ended up with a clear structure and shared accountability. I learned that Agile is about adapting to feedback, communicating early and supporting each other, and that testing is part of teamwork. |-->
+| **Result** | We pivoted to a project that was easier to build and validate, and the team ended up with a clear structure and shared accountability. I learned that Agile is about adapting to feedback, communicating early and supporting each other, and that testing is part of teamwork. |
 
 ---
 
@@ -342,12 +342,13 @@ This portfolio showcases my progress and practical experience during my Work Int
 >
 > GoClean is an affordable laundry pickup and delivery service for university students and busy township residents. After lecturer feedback we pivoted from a public clinic booking system to a service with a clear income model and no dependence on large institutions.
 
- ### Project Documentation### 📂 Project Documentation
+### 📂 Project Documentation
 
 For better viewing of screenshots, project evidence and supporting documentation, please visit my [**Google Drive Documentation Folder**](https://drive.google.com/drive/folders/1lRYqLL-zW9gr8fFGPc7kYIhSTNJ6K-1z?usp=sharing).
 
-| **Document / Evidence** | **Preview / Screenshot** | **Description & Link** |
+| **Document / Evidence** | **Link** | **Description** |
 |:---|:---:|:---|
+| **GoClean Website** | [🌐 Visit Website](https://go-clean-one.vercel.app/) | The live GoClean web application |
 | **Agile Team Charter** | [📄 View Charter](https://drive.google.com/drive/folders/1lRYqLL-zW9gr8fFGPc7kYIhSTNJ6K-1z?usp=sharing) | Team roles, responsibilities and agreements |
 | **User Stories and Tasks** | [📋 View User Stories](https://trello.com/b/Ia2c4Am0/goclean-app) | User requirements, tasks and project planning |
 | **Product Backlog** | [📊 View Product Backlog](https://drive.google.com/drive/folders/1lRYqLL-zW9gr8fFGPc7kYIhSTNJ6K-1z?usp=sharing) | Prioritised project features and requirements |
@@ -359,4 +360,3 @@ For better viewing of screenshots, project evidence and supporting documentation
 <sub>© 2026 Thandeka Malande · Built with Markdown and GitHub Pages</sub>
 
 </div>
-
